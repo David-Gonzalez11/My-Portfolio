@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://david-gonzalez11.github.io/csb-psg5mm/static/css/main.4bbdd899.chunk.css",
+    "main.js": "https://david-gonzalez11.github.io/csb-psg5mm/static/js/main.4a4ac51f.chunk.js",
+    "main.js.map": "https://david-gonzalez11.github.io/csb-psg5mm/static/js/main.4a4ac51f.chunk.js.map",
+    "runtime-main.js": "https://david-gonzalez11.github.io/csb-psg5mm/static/js/runtime-main.58528fd9.js",
+    "runtime-main.js.map": "https://david-gonzalez11.github.io/csb-psg5mm/static/js/runtime-main.58528fd9.js.map",
+    "static/js/2.bdee55ac.chunk.js": "https://david-gonzalez11.github.io/csb-psg5mm/static/js/2.bdee55ac.chunk.js",
+    "static/js/2.bdee55ac.chunk.js.map": "https://david-gonzalez11.github.io/csb-psg5mm/static/js/2.bdee55ac.chunk.js.map",
+    "index.html": "https://david-gonzalez11.github.io/csb-psg5mm/index.html",
+    "static/css/main.4bbdd899.chunk.css.map": "https://david-gonzalez11.github.io/csb-psg5mm/static/css/main.4bbdd899.chunk.css.map",
+    "static/js/2.bdee55ac.chunk.js.LICENSE.txt": "https://david-gonzalez11.github.io/csb-psg5mm/static/js/2.bdee55ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58528fd9.js",
+    "static/js/2.bdee55ac.chunk.js",
+    "static/css/main.4bbdd899.chunk.css",
+    "static/js/main.4a4ac51f.chunk.js"
+  ]
+}
